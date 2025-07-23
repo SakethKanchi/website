@@ -1,9 +1,9 @@
 title: Hacked Jekyll
 description: Jekyll microtheme that looks like JSON
-baseurl: /website 
+baseurl: /website
 url: https://sakethkanchi.github.io
 
-theme: hacked-jekyll
+# theme: hacked-jekyll
 
 exclude:
   - LICENSE
@@ -16,4 +16,3 @@ plugins:
 
 sass:
   sourcemap: never
-  
